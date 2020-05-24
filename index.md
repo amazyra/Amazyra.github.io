@@ -1,42 +1,14 @@
----
-title: テスト
----
-fdafdsafsafds
 
-## Welcome to GitHub Pages
+# about me
+## 学歴
+- 2018年 3月 京都大学工学部情報学科 卒業
+- 2012年 4月 京都大学工学部情報学科 入学
+- 2011年 3月 東大寺学園高校 卒業
 
-You can use the [editor on GitHub](https://github.com/amazyra/Amazyra.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 職歴
+- 2014年 2月 - 2015年 2月 Planna.Incにて、インターンとして、Webサイトの品質保証
+- 2014年 2月 - 2015年 2月 CAMPO OHARAにて、業務委託として、Webサイトの新規開発
+- 2013年 1月 - 2014年 1月 京都大学におけるベンチャー企業にて、業務支援のためのディスクトップアプリケーション開発
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amazyra/Amazyra.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Works
+- 準備中
